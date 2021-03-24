@@ -1,0 +1,119 @@
+.btn4-primary, .btn4-primary:hover, .btn4-primary:active, .btn4-primary:visited {
+    font-family: 'Roboto';
+    background-color:rgb(230, 228, 241);
+    color: #8D6A35;
+    font-weight: bold;
+    position: absolute;
+    width: 343px;
+    height: 40px;
+    left: 10px;
+    top: 495px;
+    mix-blend-mode: color-burn;
+    border: 1px solid #8D6A35;
+    box-sizing: border-box;
+}
+
+
+
+.rodape{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 88%;
+    bottom: 15%;
+}
+
+
+/* Texto Produto */
+.texto{
+    position: absolute;
+    left: 115px;
+    top: 3%;
+    font-size: 29px;
+    line-height: 20px;
+    font-family: 'Roboto';
+    color: #000000;
+    background: #857B7B;
+    mix-blend-mode: color-burn;
+    border: 3px solid #857B7B;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+
+/* Texto BOLO */
+.texto2{
+position: absolute;
+background: #857B7B;
+mix-blend-mode: color-burn;
+border: 2px solid #857B7B;
+box-sizing: border-box;
+border-radius: 6px;
+width: 360px;
+height: 24px;
+top: 9%;
+font-style: normal;
+font-weight: 900;
+font-size: 13px;
+color: #000000;
+}
+
+
+
+/* Texto DOCES */
+.texto3{
+    position: absolute;
+    background: #857B7B;
+    mix-blend-mode: color-burn;
+    border: 2px solid #857B7B;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 360px;
+    height: 24px;
+    top: 45%;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 13px;
+    color: #000000;
+    }
+
+.bolo {
+    position: absolute;
+    left: 25px;
+    top: 14%;
+    width: 135px;
+    height: 146px;
+    float: left;
+    border-radius: 1cm;
+}
+
+.bolo2 {
+    position: absolute;
+    width: 135px;
+    height: 146px;
+    left: 190px;
+    top: 20%;
+    float: left;
+    border-radius: 1cm;
+}
+
+
+.ovo {
+    position: absolute;
+    left: 25px;
+    top: 50%;
+    width: 135px;
+    height: 146px;
+    float: left;
+    border-radius: 1cm;
+}
+
+.ovo2 {
+    position: absolute;
+    width: 135px;
+    height: 146px;
+    left: 190px;
+    top: 54%;
+    float: left;
+    border-radius: 1cm;
+}
